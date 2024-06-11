@@ -5,7 +5,7 @@
     align-items: center;
 }
 .container .btn-toggle{
-    width: 95px;
+    width: 90px;
     height: 40px;
     border-radius: 50px;
     background: rgba(10, 196, 32, 0.632);
@@ -17,7 +17,7 @@ button{
     border: none;
     width: 50px;
     border-radius: 50px;
-    height: 34px;
+    height: 40px;
     background: rgba(18, 104, 225, 0.516);
 }
 .buttonChange{
